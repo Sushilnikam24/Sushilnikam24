@@ -26,6 +26,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushilnikam24&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Sushilnikam24&theme=tokyonight)
+
 ---
 
 ### 🔥 GitHub Streak
