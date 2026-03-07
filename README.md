@@ -51,7 +51,8 @@ Bachelor's Degree
 ### 🌐 Connect With Me
 
 💼 LinkedIn  
-https://www.linkedin.com/in/sushil-nikam-0a3560255
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sushil-nikam-0a3560255" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sushil-nikam-0a3560255?trk=profile-badge">Sushil Nikam</a></div>
+              
 
 📧 Open for collaboration in DevOps & Cloud projects
 
