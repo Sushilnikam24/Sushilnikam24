@@ -55,9 +55,9 @@ https://www.linkedin.com/in/sushil-nikam-0a3560255
 
 📧 Open for collaboration in DevOps & Cloud projects
 
-## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Sushilnikam24/Sushilnikam24/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+![snake gif](https://raw.githubusercontent.com/Sushilnikam24/Sushilnikam24/output/github-contribution-grid-snake.svg)
 <!--
 **Sushilnikam24/Sushilnikam24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
